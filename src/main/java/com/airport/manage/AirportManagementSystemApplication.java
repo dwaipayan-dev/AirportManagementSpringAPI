@@ -1,4 +1,4 @@
-package com.dwaipayan.spring.learn.project.airport_management_system;
+package com.airport.manage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

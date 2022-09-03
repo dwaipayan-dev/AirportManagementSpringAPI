@@ -1,4 +1,4 @@
-package com.dwaipayan.spring.learn.project.airport_management_system;
+package com.airport.manage;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
